@@ -1,2 +1,2 @@
-# homebrew-zmap
-Dependencies not included in standard Homebrew taps
+# homebrew-formula
+Dependencies not included in standard Homebrew taps. At this time, solely contains a formula for libJudy.
